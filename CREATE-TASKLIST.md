@@ -1,10 +1,7 @@
-CREATE-TASKLIST.MD
+### description: To guide an AI assistant in creating a detailed, step-by-step task list in Markdown format based on an existing Product Requirements Document (PRD). The task list should guide a developer through implementation.
+### globs: 
+### alwaysApply: false
 
----
-description: 
-globs: 
-alwaysApply: false
----
 # Rule: Generating a Task List from a PRD
 
 ## Goal

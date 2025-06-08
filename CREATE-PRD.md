@@ -1,10 +1,7 @@
-CREATE-PRD.MD
+### description: To guide an AI assistant in creating a detailed Product Requirements Document (PRD) in Markdown format, based on an initial user prompt. The PRD should be clear, actionable, and suitable for a junior developer to understand and implement the feature.
+### globs: 
+### alwaysApply: false
 
----
-description: 
-globs: 
-alwaysApply: false
----
 # Rule: Generating a Product Requirements Document (PRD)
 
 ## Goal
