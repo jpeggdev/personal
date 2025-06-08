@@ -1,4 +1,4 @@
-# personal
+# Working towards a more healthy lifestyle
 
 ## Plans
 
